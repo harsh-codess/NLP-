@@ -1,10 +1,10 @@
 # NLP-
 natural language processing
 
-📂 College NLP Projects Repository
+📂  NLP 
 
 
-This repository contains my Natural Language Processing (NLP) projects and assignments from college. It includes various text-processing techniques, feature extraction methods, and model implementations.
+This repository contains my Natural Language Processing (NLP). It includes various text-processing techniques, feature extraction methods, and model implementations.
 
 🔹 Topics Covered
 📌 Natural Language Processing (NLP):
