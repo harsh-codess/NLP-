@@ -22,7 +22,9 @@ Natural Language Processing (NLP) is a branch of artificial intelligence (AI) fo
 6. Information Retrieval  
 7. Text/Document Classification  
 8. Question Answering  
-9. Machine Translation  
+9. Machine Learning
+10. machine translation
+11. dataset analyzer
 
 ---
 
